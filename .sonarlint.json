@@ -1,0 +1,9 @@
+{
+    "rules": {
+      "javascript:S1481": "warning",  
+      "javascript:S1854": "error",    
+      "typescript:S125": "warning",  
+      "react:S1523": "error"          
+    }
+  }
+  
